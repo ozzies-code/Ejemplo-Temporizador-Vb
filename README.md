@@ -1,13 +1,13 @@
 # Ejemplo-Temporizador-Vb
- Este proyecto se basa en el uso de un control Timer para mostrar la hora actual
+ Este proyecto se basa en el uso de un control Timer para mostrar la hora actual.
  Se emplea una etiqueta o control Label para contener en su propiedad Text la Hora asociada 
  al equipo que proporcionara el control Timer
 
  # Actualizacion: 30/12/2024
  # Hora: 10:08
 
- Se agrego una actualizacion en la rama master para contar con dos 
- versiones del proyecto.
+ Se agrego una actualizacion en la rama main para contar con la 
+ version actualizada del proyecto.
 
 Detalles Tecnicos del Proyecto:
 Lenguaje: Visual Basic.NET
@@ -21,8 +21,8 @@ with the equipment that will provide the Timer control
 # Update: 12/30/2024
 # Time: 10:08
 
-An update was added to the master branch to have two versions
-of the project.
+An update was added to the main branch to have a version
+Actually of the project.
 
 Technical Details of the Project:
 Language: Visual Basic.NET
