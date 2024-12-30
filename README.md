@@ -27,6 +27,7 @@ of the project.
 Technical Details of the Project:
 Language: Visual Basic.NET
 Framework Version: 4.7.2
+
 ![imagen](https://github.com/user-attachments/assets/980d8cd9-7ce5-45fe-b3c7-dff653e511a1)
 
 Code of the Project:
